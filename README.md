@@ -1,5 +1,27 @@
 # 🛍️ Customer Segmentation with RFM Analysis
 
+This project demonstrates how to perform **customer segmentation** using the **RFM (Recency, Frequency, Monetary)** model on the **Online Retail dataset**.  
+It groups customers based on their purchasing behavior and visualizes the results.
+
+## 📂 Dataset
+
+We used the **Online Retail dataset** (UCI Machine Learning Repository / Kaggle).  
+You can download it from:
+
+- [UCI Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
+- [Kaggle Version (CSV)](https://www.kaggle.com/datasets/vijayuv/onlineretail)
+
+Make sure the dataset file (`OnlineRetail.csv` or `OnlineRetail.xlsx`) is in the same folder as the notebook/script.
+
+## 🛠️ Tools & Libraries
+
+- Python 3.x  
+- [Pandas](https://pandas.pydata.org/)  
+- [NumPy](https://numpy.org/)  
+- [Matplotlib](https://matplotlib.org/)  
+- [Seaborn](https://seaborn.pydata.org/)  
+
+
 🚀 **How to Run**
 
 Clone this repository:
