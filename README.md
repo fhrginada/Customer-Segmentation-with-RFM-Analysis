@@ -1,9 +1,9 @@
-# 🛍️ Customer Segmentation with RFM Analysis
+#  Customer Segmentation with RFM Analysis
 
 This project demonstrates how to perform **customer segmentation** using the **RFM (Recency, Frequency, Monetary)** model on the **Online Retail dataset**.  
 It groups customers based on their purchasing behavior and visualizes the results.
 
-## 📂 Dataset
+##  Dataset
 
 We used the **Online Retail dataset** (UCI Machine Learning Repository / Kaggle).  
 You can download it from:
@@ -13,7 +13,7 @@ You can download it from:
 
 Make sure the dataset file (`OnlineRetail.csv` or `OnlineRetail.xlsx`) is in the same folder as the notebook/script.
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python 3.x  
 - [Pandas](https://pandas.pydata.org/)  
@@ -22,7 +22,7 @@ Make sure the dataset file (`OnlineRetail.csv` or `OnlineRetail.xlsx`) is in the
 - [Seaborn](https://seaborn.pydata.org/)  
 
 
-🚀 **How to Run**
+ **How to Run**
 
 Clone this repository:
 
@@ -41,7 +41,7 @@ jupyter notebook RFM_Analysis.ipynb
 
 Or upload the notebook and dataset to Google Colab, then run all cells.
 
-📊 **Steps Performed**
+ **Steps Performed**
 
 - **Data Loading & Cleaning**
   - Load dataset
@@ -67,14 +67,14 @@ Or upload the notebook and dataset to Google Colab, then run all cells.
   - Bar chart of customer segments  
   - Heatmap of average Monetary by Recency & Frequency scores  
 
-📝 **Output Examples**
+ **Output Examples**
 
 - Segment Table: Average Recency, Frequency, Monetary per segment with customer counts.
 - Charts:
   - Distribution of customers across segments.
   - Heatmap of monetary value by R and F scores.
 
-💡 **Marketing Strategies Ideas**
+ **Marketing Strategies Ideas**
 
 - Champions: Exclusive offers, loyalty rewards.
 - Loyal Customers: Upselling or premium memberships.
